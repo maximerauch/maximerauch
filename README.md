@@ -1,16 +1,16 @@
 ### Hi there, I'm Maxime 👋
 
-Backend Engineer with a strong product mindset. I bridge the gap between complex systems and tangible business value. I am driven by high-performance engineering cultures and ambitious distributed systems challenges.
+I am a product-minded Backend Engineer with 12 years of experience bridging the gap between complex systems and tangible business value. I am driven by high-performance engineering cultures and ambitious distributed systems challenges.
 
-**Lead Backend Engineer at Chargemap**, I oversee the B2C web platform architecture. My role focuses on delivering high-availability APIs, covering core features like real-time charging status delivery (WebSockets), scalable user account management, and high-volume community feedback systems. A key part of my mission involves modernizing a mature codebase (legacy modernization) while maintaining high reliability.
+**As a Staff-level Engineer (Lead) at Chargemap**, I oversee the B2C web platform architecture. My role focuses on delivering high-availability APIs, covering core features like real-time charging status delivery (WebSockets), scalable user account management, and high-volume community feedback systems for 3M+ users. A key part of my mission involves modernizing a mature codebase (legacy modernization) while maintaining high reliability.
 
 ---
 
-🔧 **ENGINEERING RIGOR** I don't just write code; I build maintainable systems. I care about observability, clean architecture, and technical debt management.
+🔧 **ENGINEERING RIGOR & GROWTH** I don't just write code; I build maintainable systems. I am a continuous learner, staying ahead of industry shifts-from cloud-native patterns to high-concurrency languages like Go. I care deeply about observability, clean architecture, and long-term technical health.
 
-💡 **FOUNDER DNA** As the founder of [HITLINE](https://www.hitline.fr), I understand that great tech must serve the product. I own my projects from conception to production.
+💡 **FOUNDER DNA** As the founder of [HITLINE](https://www.hitline.fr), I understand that technical decisions must serve the product and the user. I bring a pragmatic, ROI-focused approach to every architectural challenge.
 
-📚 **CONTINUOUS LEARNER** Always pushing for the next level of performance—currently deep-diving into **Go** and high-concurrency patterns to broaden my technical toolkit.
+🎯 **BEYOND CODE** I am passionate about mission-driven tech organizations that solve complex scale problems while fostering a culture of technical excellence and open collaboration.
 
 ---
 
