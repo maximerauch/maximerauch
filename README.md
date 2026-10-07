@@ -1,12 +1,14 @@
 ### Hi there, I'm Maxime 👋
 
-I am a product-minded Backend Engineer with 12 years of experience building distributed systems at scale across regulated and consumer environments.
+I am a product-minded Software Engineer with 12 years of experience building distributed systems at scale across regulated and consumer environments.
 
-**As a Lead Backend Engineer at Chargemap**, I oversee the B2C web platform architecture. My role focuses on delivering high-availability APIs, covering core features like real-time charging status delivery (WebSockets), scalable user account management, and high-volume community feedback systems for 3.5M+ users. A key part of my mission involves modernizing a mature codebase (legacy modernization) while maintaining high reliability.
+🚀 **CURRENTLY** Senior Software Engineer on the Application Security team at Alan, building the health super-app that covers 1M+ members across 6 countries.
+
+⚡ **PREVIOUSLY** Lead Backend Engineer at Chargemap, owning the B2C web platform architecture for 3.5M+ users. High-availability APIs, real-time charging status over WebSockets, account management and high-volume community feedback, all on a mature codebase I was modernizing without trading away reliability.
 
 ---
 
-🔧 **ENGINEERING RIGOR & GROWTH** I don't just write code; I build maintainable systems. I am a continuous learner, staying ahead of industry shifts-from cloud-native patterns to high-concurrency languages like Go. I care deeply about observability, clean architecture, and long-term technical health.
+🔧 **ENGINEERING RIGOR & GROWTH** I don't just write code; I build maintainable systems. I am a continuous learner, staying ahead of industry shifts, from cloud-native patterns to high-concurrency languages like Go. I care deeply about observability, clean architecture, and long-term technical health.
 
 💡 **FOUNDER DNA** As the founder of [HITLINE](https://www.hitline.fr), I understand that technical decisions must serve the product and the user. I bring a pragmatic, ROI-focused approach to every architectural challenge.
 
